@@ -1,0 +1,17 @@
+body{background-color:blanchedalmond; font-family:verdana;
+    }
+div{ width:650px; margin:0 auto; text-align:center; }
+h1{font-size:26px;font-weight:bold;}
+.top{border-bottom: 2px solid burlywood; padding:20px; }
+.image-logo{width:200px; padding:20px;}
+a{text-decoration:none; padding:5px; margin:0 30px;}
+.secao-produto {text-align:center; color:white; 
+    background-color:chocolate;line-height:30px;}
+.secao-produto img{width:300px; padding-bottom:10px;}
+h2{font-size:24px;font-weight:normal; color:brown;}
+h3{font-size:22px; padding-top:10px;}
+h4{font-size:20px;}
+.bakery-front{width:650px;}
+span{font-weight:bold;}
+p{width:500px;text-align:center;margin:0 auto;}
+.secao-contato{line-height:30px;}
